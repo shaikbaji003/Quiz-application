@@ -1,0 +1,23 @@
+.title {
+  text-transform: uppercase;
+  font-size: 3vw;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bolder;
+  cursor: pointer;
+  color: rgb(28, 28, 28);
+}
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /* background-color: aqua; */
+
+}
+
+.divider {
+  margin: 10px;
+  width: 100%;
+  background-color: black !important;
+
+}
